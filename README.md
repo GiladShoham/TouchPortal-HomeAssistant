@@ -13,6 +13,7 @@ So why a new plugin?
 * [Touch Portal](https://www.touch-portal.com/)
 * [Home Assistant](https://www.home-assistant.io/)
 * [Touch Portal API for Node.JS](https://github.com/spdermn02/touchportal-node-api)
+* The original [TP-HomeAssistant](https://github.com/jaybz/TP-HomeAssistant) plugin, for inspiration
 
 ## Contributing
 If you wish to contribute, feel free. You are welcome:)
