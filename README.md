@@ -16,3 +16,6 @@ So why a new plugin?
 
 ## Contributing
 If you wish to contribute, feel free. You are welcome:)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/GiladShoham/TouchPortal-HomeAssistant/blob/master/LICENSE) file for details
